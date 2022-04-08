@@ -137,7 +137,7 @@ img {
 }
 
 .site-header .navbar .nav-item .nav-link {
-  font-family: "Roboto";
+  font-family: "Verdana";
   font-size: 1rem;
   line-height: 25px;
   color: #747474;
@@ -145,7 +145,7 @@ img {
 }
 
 .site-header .navbar .nav-item .nav-link:not(:last-child) {
-  margin-right: 0px;
+  margin-right: px;
 }
 
 @media (min-width: 992px) {
